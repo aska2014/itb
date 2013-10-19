@@ -1,0 +1,856 @@
+body{
+	background: url(../images/Untitled-2.png);
+	margin: 0 auto;
+    padding: 0;
+	text-align: center;
+}    
+div, h1, h2, h3, h4, p, form, label, input, textarea, img, span, a,ul{
+	margin:0; padding:0; text-decoration:none; list-style:none;
+}
+@font-face{
+font-family:Hacen Tunisia;
+src: url('font/Hacen Tunisia.ttf'),
+src: url('font/Hacen Tunisia.eot'),
+src: url('font/Hacen Tunisia.svg'),
+src: url('font/Hacen Tunisia.woff');
+}
+#container{
+	margin:0 auto;
+	width: 960px;
+	overflow: hidden;
+	display: block;
+	font-family:Hacen Tunisia;
+}
+#header{
+	width: 960px;
+	float: right;
+}
+#head11{
+	background: url(../img/pic-head.png) center repeat-y;
+	float: right;
+	width: 960px;
+	height: 145px
+}
+#logo{
+	background: url(../img/itbswisslogo1.png) left no-repeat;
+	float: left;
+	width: 270px;
+	height: 81px;
+	margin: 30px 0 0 0;
+}
+#pic-photo22{
+	float: left;
+	margin: 5px 0 0 -21px;
+}
+#head11 .photohead22{
+	margin: 0 0 0 -71px
+}
+#head11 .photohead33{
+	margin: 34px 10px 0 -23px;
+}
+#head11 .photohead44{
+	margin: 36px 0 0 0;
+}
+#icon-pic{
+    float: right;
+    margin: 25px 0 10px 50px;
+}
+#icon-pic ul li{
+	float: right;
+	margin: 0 10px 0 0
+}
+#icon-pic img{
+    width: 30px; 
+}
+#pic-germany{
+	float: left;
+	width: 24px;
+	margin: 4px 0 0 0;
+}
+#contactheader{
+	float: right;
+	color: #fff;
+	width: 280px;
+	text-align: right;
+	line-height: 30px;
+	font-size: 18px;
+	margin: 0 14px 0 0;
+}
+#line22{
+	background: url(../img/pic-line22.png)center repeat-x;
+	float: right;
+	width: 960px;
+	height: 18px;
+	margin: -34px 0 0 0;
+}
+#head22{
+	background: url(../img/pic-mnuright.png)repeat;
+	float: right;
+	width: 960px;
+	overflow: hidden;
+}
+#line23{
+    background: url(../img/pic-line22.png)center repeat-x;
+	float: right;
+	width: 960px;
+	height: 2px;
+}
+#search{
+	float: right;
+	margin: 3px 7px -8px 0;
+}
+#search input{
+	float: left;
+	height: 33px;
+	width: 290px;
+	border: 3px solid #1c3569;
+}
+#search a{
+	float: left;
+	margin: 4px 0 0 -33px;
+	border-left: 1px solid;
+}
+#search a img{
+	width: 28px;
+}
+#follow img{
+	width: 35px;
+	margin: 0 12px 0 0;
+}
+#follow{
+	float: left;
+	width: 250;
+	margin: 2px 0 0 -18px;
+}
+#mnu{
+	float: left;
+	width: 960px;
+	text-align: left;
+	margin: -1px 0 0 0;
+}
+#homepage{
+	background-color: #fff;
+	width: 960px;
+	overflow: hidden;
+
+}
+#left{
+	float: left;
+	width: 220px;
+	margin: 15px 0 20px 10px;
+}
+#cart span{
+	float: left;
+	width: 100px;
+}
+#mnuleft{
+	float: left;
+	width: 220px;
+}
+#mnuleft ul{
+	float: left;
+	text-align: left;
+}
+#mnuleft ul li{
+	background: url(../img/pic-mnu-left33.png)left no-repeat;
+	float: left;
+	width: 220px;
+	height: 31px;
+	margin: 10px 0 0 0;
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(270deg);
+	filter: progid:DXImageTransform.Microsoft.B
+}
+#mnuleft ul li:hover{
+	background: url(../img/pic-mnu-left.png)left no-repeat;
+}
+#mnuleft ul li a{
+	float: left;
+	margin: 5px 0 0 10px;
+	color: #fff;
+	font-size: 17px;
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(270deg);
+	filter: progid:DXImageTransform.Microsoft.Bas
+}
+#cart{
+	float: left;
+	width: 220px;
+	margin: 0 0 20px 0;
+}
+#cart img{
+    float: left;
+    margin: 0 9px 0 0;
+}
+#cart ul{
+    margin: 13px 0 0 0;
+	text-align: right;
+	font-size: 17px;
+} 
+#cart ul .ooo{
+	font-size: 14px;
+}
+#cart ul .ooo strong{
+	color: red;
+}
+#mnuleft{
+	float: left;
+	margin: 0 0 0 0;
+}
+#headspical{
+	background-color: #1a4892;
+	float: left;
+	width: 220px;
+	height: 30px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5;
+}
+#headspical span a{
+	float: right;
+	margin: 6px 10px 0 0;
+	font-size: 17px;
+	color: rgb(255, 235, 0);
+}
+#oferspecials{
+	background-color: #e6e6e6;
+	float: left;
+	width: 220px;
+	height: 380px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5;
+}
+.picofer{
+	float: left;
+	margin: 10px 0 0 10px;
+}
+.picofer img{
+	float: left;
+	background-color: #fff;
+	padding: 12px 8px 12px 8px;
+	border-radius: 3px;
+	border: 1px solid #AAA4A4;
+	margin: 0 5px 0 0;
+}
+.picofer span{
+	text-align:right;
+	float:right;
+	font-weight: bold;
+	font-size: 15;
+	width:118px;
+	margin: 0 10px 0 0;
+}
+.picofer .pric{
+	margin: 5px 10px 0 0;
+	font-size: 12px;
+}
+.picofer .pric .ppp{
+	color: #3c6704;
+}
+.picofer .pric .qqq{
+	color: red;
+}
+.linepfer{
+    background: url(../img/piclinofer.png) center repeat-x;
+    float: left;
+    width: 220px;
+    height: 15px;
+    margin: 5px 0 5px -10px;
+}
+#specials{
+	float: left;
+	margin: 12px 0 0 0;
+}
+#picmaling{
+	background: url(../img/pic-malinglist.png)left no-repeat;
+	float: left;
+	width: 220px;
+	height: 285px;
+}
+#malinglist{
+	float: left;
+	margin: 23px 0 0 0;
+}
+#malinglist input{
+	float: left;
+	margin: -132 0 0 23;
+	width: 174;
+	height: 26;
+}
+#ptnmail a{
+	background: url(../img/ptn-hovermaling.png)center no-repeat;
+	float: left;
+	width: 130px;
+	height: 35px;
+	margin: -85px 0 0 40px;
+}
+#ptnmai a:hover{
+	background: url(../img/ptn-maling.png)center no-repeat;
+	float: left;
+	width: 130px;
+	height: 35px;
+	margin: -85px 0 0 40px;
+}
+#ptnmail a span{
+	margin: 8px 0 0 43px;
+	float: left;
+	font-size: 15px;
+	color: #fff;
+}
+#right{
+	float: right;
+	width: 700px;
+	margin: 0 10px 20px 0;
+}
+#headright{
+	background: url(../img/pic-mnuright.png)center repeat-x;
+	float: right;
+	width: 700px;
+	height: 31px;
+	margin: 0 0 10px 0;
+}
+#headright span{
+	float: right;
+	margin: 5px 10px 0 0;
+	color: #fff;
+	font-size: 17px;
+}
+#borderright{
+	float: right;
+	width: 697px;
+	border: 1px solid #d3d3d3;
+	overflow: hidden;
+	margin: 10px 1px 20px 0;
+}
+#right11{
+	float: right;
+	width: 220px;
+}
+#block11{
+	float: right;
+	margin: 20px 0 0 0;
+}
+#block11 .infotext{
+	float: left;
+	width: 200px;
+	font-weight: bold;
+}
+#block11 .salarynamber{
+	float: left;
+	width: 100;
+	margin: 0 0 10px 45px;
+	font-weight: bold;
+	color: #53890c;
+}
+#block11 a{
+	margin: 0 40px 20px 0;
+}
+#block11 .linkbtncart{
+	background: url(../img/ptn-newright.png);
+	float: right;
+	width: 115px;
+	height: 42px;
+	margin: 10px 55px 30px 0;
+}
+#block11 .linkbtncart span{
+	float: right;
+	margin: 11px 15px 0 0;
+	color: #fff;
+	font-size: 12px;
+	
+}
+#block11 .linkbtncart span:hover{
+	color: yellow;
+}
+#borderline{
+	float: left;
+	border-left: 1px solid #f0efef;
+	height: 520px;
+	margin: 20px 0 20px -15px;
+}
+#right22{
+	float: right;
+	width: 220px;
+	margin: 0 20px 0 0;
+}
+#right33{
+	float: right;
+	width: 220px;
+	margin: 0 10px 0 0;
+}
+#bk-footer{
+	background: url(../img/pic-footer.png) center repeat;
+	float: left;
+	width: 960px;
+	overflow: hidden;
+	height: 260px;
+}
+#footer11{
+	float: right;
+	width: 960px;
+}
+#blockfooter11{
+	float: right;
+	width: 220;
+	text-align: justify;
+	margin: 10px 20px 0 10px;
+}
+#blockfooter11 span{
+	font-size: 17px;
+	color: #fff;
+	margin: 0 0 0 0;
+	float: right;
+}
+#blockfooter11 img{
+	float: right;
+	clear: both;
+	margin: 10px 0 0 0;
+}
+#blockfooter11 p{
+	float: right;
+	margin: 10px 0 0 0;
+	color: #fff;
+	font-size: 13;
+	line-height: 25px;
+}
+#blockfooter22{
+	float: right;
+	width: 180;
+	text-align: justify;
+	margin: 10px 20px 0 10px;
+}
+#blockfooter22 span{
+	font-size: 17px;
+	color: #fff;
+	margin: 0 0 0 10px;
+	float: left;
+}
+.namecompany{
+	float: right;
+	margin: 10px 10px 0 0;
+	color: #fff;
+	font-weight: bold;
+}
+#footer22{
+	background: url(../img/pic-mnuright.png)repeat;
+	float: right;
+	width: 960px;
+	height: 40px;
+}
+#footer22 span{
+	float: right;
+	margin: 11px 365px 0 0;
+	color: #fff;
+	font-size: 19px;
+	text-shadow: 2px 3px #000;
+}
+#followfooter{
+	float: left;
+	text-align: left;
+}
+#followfooter span{
+	float: right;
+	margin: 10px 0 0 25px;
+	width: 68px;
+}
+#slider{
+	float: right;
+	width: 700px;
+	display: block;
+}
+.sliderclass{
+	float: right;
+	margin: 20px 0 0 0;
+}
+#followfooter a img{
+
+}
+/*---about us-------*/
+#headrightaboutus{
+	background: url(../img/pic-mnuright.png)center repeat-x;
+	float: right;
+	width: 700px;
+	height: 31px;
+	margin: 24px 0 10px 0;
+}
+#headrightaboutus span{
+	float: right;
+	margin: 5px 10px 0 0;
+	color: #fff;
+	font-size: 17px;
+}
+#textaboutas{
+   	float: right;
+	text-align: right;
+	margin: 8px 0 0 0;
+	font-size: 17px;
+	line-height: 25px;
+	clear: both;
+}
+#textaboutas .texttitel{
+	font-size: 20px;
+	color: #303DD8;
+}
+#textaboutas .point{
+	color: red;
+}
+#textaboutas  .ttt{
+	color: red;
+}
+.textnamber{
+	float: right;
+	text-align: right;
+	font-size: 15px;
+	line-height: 33px;
+	margin: 0 37px 0 0;
+	clear: both;
+}
+#textaboutas .kkk{
+	color: red;
+}
+#textaboutas00{
+	float: right;
+	text-align: right;
+	margin: 0 0 0 0;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 45px;
+}
+#textaboutas00 .kkk{
+	color: red;
+}
+#textValues .mmm{
+	margin: 0 0 0 0;
+	color: #0556BD;
+}
+#textValues{
+  float: right;
+	text-align: justify;
+	font-size: 16px;
+	margin: 10px 26px 0 0;
+}
+#textValues li{
+	line-height: 25px;
+}
+#textPromise{
+	float: right;
+	text-align: right;
+	margin: 0 0 0 20px;
+	font-size: 15px;
+}
+#textaboutas .titelPromise{
+	color: #0707B4;
+}
+#textaboutas ol li{
+	line-height: 33px;
+}
+.phototitelPromise img{
+	margin: 0 10px 0 10px;
+}
+#textaboutas #logoabout00{
+	font-size: 20px;
+	float: right;
+}
+/*-----our porudect*/
+#productspage{
+	float: left;
+	width: 710px;
+	margin: 0 0 0 0;
+}
+.products11{
+	background: url(../img/bk-proudact.png) no-repeat;
+	float: left;
+	width: 340px;
+	margin: 10px 12px 0 0;
+	height: 140;
+	border: 1 solid #61a2c0;
+}
+.products11 img{
+	float: left;
+	margin: 10px 0 0 10px;
+}
+.products11 a h4{
+	float: right;
+	margin: 55px 20px 0 0;
+	font-size: 16px;
+	color: #064EA8;
+}
+#minslid{
+	float: left;
+	margin: -15px 0 20px 0;
+	border: 1px solid #C4C5C7;
+}
+/*------partener-------*/
+#rightpartener{
+	float: right;
+	width: 700px;
+}
+.blockpartener11{
+   float: right;
+   width: 700px;
+   margin: 0 0 30px 0;
+}
+.blockpartener11 .picpartener{
+	background: url(../img/picpartener.png) right no-repeat;
+	float: right;
+	width: 257px;
+	height: 256px;
+}
+.blockpartener11 .picpartener img{
+	float: right;
+	margin: 25px 50px 0 0;
+}
+.blockpartener11 h3{
+	float: right;
+	margin: 0 17px 0 0;
+	color: red;
+}
+.blockpartener11 p{
+	float: right;
+	text-align: justify;
+	width: 423px;
+	font-size: 15px;
+	line-height: 24px;
+	margin: -6px 20px 0 0;
+
+}
+/*------international*/
+.blockpartener11 .picinternationalr img{
+	float: right;
+	margin: 50px 50px 0 0;
+}
+.blockpartener11 .picinternationalr{
+	background: url(../img/picpartener.png) right no-repeat;
+	float: right;
+	width: 257px;
+	height: 256px;
+}
+/*-------contactus--------*/
+#pagecontactus{
+    float: left;
+    width: 695px;
+    border: 2px solid rgb(121, 131, 182);
+	margin: 13px 0 0 0;
+
+}
+#pagecontactus form{
+    float: left;
+   }
+#pagecontactus form label{
+	float: right;
+	margin: 0 0 10px 0;
+	clear: both;
+	font-size: 16px;
+}
+#pagecontactus form input{
+	float: left;
+	width: 400px;
+	height: 25px;
+	clear: both;
+}
+#msg{
+	float: left;
+	clear: both;
+	width: 400px;
+	height: 100px;
+}
+#sending220{
+	float: right;
+	width: 450;
+	margin: 40px 0 0 45px;
+}
+#sending330{
+	float: left;
+	width: 225px;
+}
+#sending220 #sending330 label{
+	float: right;
+	margin: 0 45px 10px 0;
+	clear: both;
+	font-size: 16px;
+	text-align: left;
+}
+#sending220 #sending330 input{
+	float: left;
+	width: 180px;
+	height: 25px;
+	clear: both
+}
+#bk-contactus #form1{
+	float: right;
+	margin: 30px 0 0 40px;
+	width: 450px;
+}
+#picfootercontact{
+    background: url(../img/ptnsend.png)left no-repeat;
+    float: right;
+    width: 122px;
+    height: 39px;
+    clear: both;
+    margin: 30px 300px 92px 0;
+}
+#picfootercontact span{
+	float: left;
+	margin: 7px 0 0 16px;
+	font-size: 17px;
+	font-weight: bold;
+	color: #fff;
+}
+#picfootercontact span:hover{
+	color: yellow;
+}
+#form1 #sending select{
+	float: left;
+	width: 400px;
+	height: 25px;
+	clear: both;
+}
+/*------Location--------*/
+#picmap{
+	background: url(../img/pic-map.png)center no-repeat;
+	float: left;
+	width: 320px;
+	height: 425px;
+	margin: 20px 0 20px 100px;
+	border: 1px solid #000;
+}
+/*------salesmarketing-----*/
+#pagmarketing{
+	float: left;
+	width: 696px;
+	margin: 12px 0 0 0;
+	border: 1px solid #BDCAFF;
+}
+#pagmarketing .text11{
+	float: right;
+	text-align: right;
+	line-height: 30px;
+	color: red;
+	margin: 0 40px 10px 0;
+	width: 180px;
+	font-size: 17px;
+}
+#pagmarketing .text22{
+	float: left;
+	text-align: justify;
+	line-height: 30px;
+	font-weight: bold;
+	color: #0a34d0;
+	margin: 0 0px 0 94px;
+}
+#pagmarketing h4{
+	float: right;
+	margin: 14px 40px 10px 0;
+	font-size: 19px;
+}
+#pic-marketing{
+	background: url(../img/pic-slaremarketing.png)left no-repeat;
+	float: right;
+	width: 213px;
+	height: 157px;
+}
+/*------ourteam------*/
+#pageourteam{
+	float: left;
+	width: 700px;
+}
+#blockourteam{
+	float: left;
+	width: 115px;
+	margin: 0 25px 30px 0;
+}
+#blockourteam img{
+	float: left;
+	margin: 0 0 10px 0;
+}
+#blockourteam span{
+	float: left;
+	margin: -7px 0 0 11px;
+}
+/*--------prospectcatalogue-----*/
+#pagedowenload{
+	float: left;
+	width: 700px;
+}
+#pagedowenload .book11{
+	float: left;
+	width: 175px;
+	margin: 0 0 30px 0;
+	text-align: left;
+}
+#pagedowenload .book11 h4{
+	float: left;
+	margin: 0 0 0 15px;
+}
+#pagedowenload .book11 h5{
+	float: left;
+	margin: 5 0 0 40px;
+	clear: both;
+}
+/*-------pagevadio------*/
+#pagevadio{
+	float: left;
+	width: 700px;
+	margin: 12px 0 0 0;
+}
+#pagevadio .vadio11{
+	float: left;
+	width: 340px;
+	margin: 0 10px 10px 0;
+}
+.vadio11 span{
+	float: left;
+	margin: -5px 0 10px 0;
+	color: red;
+	font-weight: bold;
+}
+.vadio11{
+	float: left;
+	width: 340px;
+}
+/*------pagdetils-------*/
+#pic-deteils{
+	float: right;
+	margin: 0 0 0 0;
+}
+#picsmall{
+	float: right;
+}
+#picsmall .photohead55{
+	border: 1px solid #BEBEBE;
+	margin: 0 20px 0 0;
+}
+#picsmall a{
+	border: 1px solid #000;
+}
+#textdetielis{
+	float: right;
+	text-align: right;
+	margin: 30px 20px 0 0;
+	width: 450px;
+}
+#textdetielis p{
+	font-size: 16px;
+}
+#send{
+	float: right;
+}
+#send input{
+	width: 300px;
+	height: 30px;
+}
+#textore textarea{
+	width: 300px;
+	height: 100px;
+}
+#button{
+	float: left;
+	margin: 10px 0 0 95px;
+}
+#button button{
+	width: 100px;
+	height: 40px;
+}
+#pic-deteils span{
+	float: right;
+	font-size: 15px;
+}

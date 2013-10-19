@@ -1,0 +1,79 @@
+<?php 
+
+class Lan {
+
+    const KEY_NAME = 'language';
+
+    /**
+     * @var mixed
+     */
+    protected $storage;
+
+    /**
+     * @var array
+     */
+    protected $available;
+
+    /**
+     * @var
+     */
+    protected $default;
+
+    /**
+     * @var string
+     */
+    protected $language = null;
+
+    /**
+     * @param mixed $storage
+     * @param array $available
+     * @param $default
+     */
+    public function __construct( $storage, array $available, $default )
+    {
+        $this->storage = $storage;
+        $this->available = $available;
+        $this->default = $default;
+    }
+
+    /**
+     * @param $language
+     * @return bool
+     */
+    public function is( $language )
+    {
+        return $this->get() == $language;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function get()
+    {
+        if($this->language) return $this->language;
+
+        $language = $this->storage->get( self::KEY_NAME );
+
+        // If not isset language or not correct then change it to default and return the default
+        if(! $language || !in_array($language, $this->available))
+        {
+            $this->change($this->default);
+
+            return $this->language = $this->default;
+        }
+
+        else
+        {
+            return $this->language = $language;
+        }
+    }
+
+    /**
+     * @param $lan
+     */
+    public function change( $lan )
+    {
+        $this->storage->put(self::KEY_NAME, $lan);
+    }
+
+}
