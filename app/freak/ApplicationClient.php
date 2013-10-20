@@ -1,8 +1,11 @@
 <?php
 
+use Kareem3d\Ecommerce\Order;
 use \Kareem3d\Freak\Core\Client;
 use Kareem3d\Freak\Core\Element;
 use Kareem3d\Freak;
+use Kareem3d\Freak\Menu\Icon;
+use Kareem3d\Freak\Menu\Item;
 
 class ApplicationClient extends Client {
 
@@ -15,6 +18,7 @@ class ApplicationClient extends Client {
             Element::withDefaults('video', new Video()),
             Element::withDefaults('product', new Product()),
             Element::withDefaults('category', new Category()),
+            Element::withDefaults('order', new Order()),
         );
     }
 
@@ -37,6 +41,15 @@ class ApplicationClient extends Client {
         $freak->modifyElement('category', function(Element $element)
         {
             $element->setController('FreakCategoryController');
+        });
+
+        $freak->modifyElement('order', function(Element $element)
+        {
+            $element->setMenuItem(Item::make(
+                $element->getName(), $element->getUri(), Icon::make('icon-archive')
+            )->addChildren(array(
+                Item::make('Display all ' . Str::plural($element->getName()), $element->getUri(), Icon::make('icol-inbox'))
+            )));
         });
     }
 

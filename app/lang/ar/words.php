@@ -33,4 +33,7 @@ return array(
     'mobile'         => 'رقم الموبيل',
     'name'           => 'الأسم',
     'message'        => 'الرسالة',
+
+
+    'currency'       => 'ج.م'
 );

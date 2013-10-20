@@ -21,9 +21,7 @@ class ImageSeeder extends \Illuminate\Database\Seeder {
 
         $group->specs()->create(array(
             'directory' => 'albums/products/gallery'
-        ))->setCode(new Code(array(
-            'code' => '$image->crop(200, 230); return $image;'
-        )));
+        ));
 
 
 
@@ -36,17 +34,14 @@ class ImageSeeder extends \Illuminate\Database\Seeder {
         ));
 
         $group->specs()->create(array(
-            'directory' => 'albums/products/115x115'
+            'directory' => 'albums/products/xx103'
         ))->setCode(new Code(array(
-                'code' => '$image->grab(115, 115); return $image;'
+                'code' => '$image->resize(null, 103, true); return $image;'
             )));
 
         $group->specs()->create(array(
-            'directory' => 'albums/products/200x230'
-        ))->setCode(new Code(array(
-                'code' => '$image->grab(220, 245); return $image;'
-            )));
-
+            'directory' => 'albums/products/normal'
+        ));
 
 
 
@@ -60,7 +55,7 @@ class ImageSeeder extends \Illuminate\Database\Seeder {
         $group->specs()->create(array(
             'directory' => 'albums/videos/150x160'
         ))->setCode(new Code(array(
-                'code' => '$image->crop(150, 160); return $image;'
+                'code' => '$image->grab(150, 160); return $image;'
             )));
 
 
@@ -77,7 +72,7 @@ class ImageSeeder extends \Illuminate\Database\Seeder {
         $group->specs()->create(array(
             'directory' => 'albums/categories/main'
         ))->setCode(new Code(array(
-                'code' => '$image->crop(114, 115); return $image;'
+                'code' => '$image->grab(114, 115); return $image;'
             )));
     }
 }

@@ -1,9 +1,10 @@
+
 @if($images = $model->getImages( $imagesType ))
     @if(! $images->isEmpty())
     <div class="gallery-imgs" style="margin:20px;">
         @foreach($images as $image)
 
-        <img src="{{ $image->getNearest(100, 100)->url }}" style="width:100px;" />
+        <img src="{{ $image->getNearest(100, 100, true)->url }}" style="width:100px;" />
         <a href="{{ freakUrl('resource/image/delete/' . $image->id) }}" class="delete-icon">Delete</a>
 
         @endforeach

@@ -9,6 +9,16 @@ class URL extends LaravelURL {
     /**
      * @param Product $product
      */
+    public static function buyProduct( Product $product )
+    {
+        $id = $product->id;
+
+        return URL::route('buy-product', compact('id'));
+    }
+
+    /**
+     * @param Product $product
+     */
     public static function product( Product $product )
     {
         $id = $product->id;

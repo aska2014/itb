@@ -1,5 +1,16 @@
 <?php
 
+
+use Illuminate\Support\MessageBag;
+
+View::share('success', new MessageBag((array) Session::get('success', array())));
+
+
+View::composer('partials.category_menu', function( $view )
+{
+    $view->categories = App::make('Category')->all();
+});
+
 View::composer('partials.header', function( $view )
 {
     // Default menu item

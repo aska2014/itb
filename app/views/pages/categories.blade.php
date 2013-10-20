@@ -1,20 +1,11 @@
 <div id="homepage">
     <div id="left">
-        <div id="mnuleft">
-            <ul id="menu">
-                @foreach($categories as $category)
-                <li id="menu1"><a href="p1.html">{{ $category->title }}</a></li>
-                @endforeach
-            </ul>
-        </div>
+
+        @include('partials.category_menu')
 
         @include('partials.left_specials')
 
-        <div id="malinglist">
-            <div id="picmaling"></div>
-            <input type="email" id="email" name="email" class="txt">
-            <div id="ptnmail"><a href="#"><span>Send</span></a></div>
-        </div>
+        @include('partials.mailing_list')
     </div>
 
     <div id="right">
@@ -22,8 +13,8 @@
         <div id="productspage">
             @foreach($categories as $category)
             <div class="products11">
-                <a href="p1.html"><img src="{{ $category->getImage('main')->getNearest(114, 115)->url }}"></a>
-                <a href="p1.html"><h4>{{ $category->title }}</h4></a>
+                <a href="{{ URL::category($category) }}"><img src="{{ $category->getImage('main')->getNearest(114, 115)->url }}"></a>
+                <a href="{{ URL::category($category) }}"><h4>{{ $category->title }}</h4></a>
             </div>
             @endforeach
         </div>

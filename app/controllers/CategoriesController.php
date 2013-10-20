@@ -20,9 +20,7 @@ class CategoriesController extends BaseController {
      */
     public function all()
     {
-        $categories = $this->categories->all();
-
-        return $this->layout->nest('content', 'pages.categories', compact('categories'));
+        return $this->layout->nest('content', 'pages.categories');
     }
 
     /**
@@ -34,8 +32,10 @@ class CategoriesController extends BaseController {
     {
         $category = $this->categories->find($id);
 
+        $products = $category->products;
+
         $this->preventDuplicate($category, $title);
 
-        return $this->layout->nest('content', 'pages.category', compact('categories'));
+        return $this->layout->nest('content', 'pages.category', compact('category', 'products'));
     }
 }

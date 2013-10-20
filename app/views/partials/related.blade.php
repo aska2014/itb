@@ -7,7 +7,7 @@
             @if($image = $product->getImage('main'))
             <li>
                 <a href="{{ URL::product($product) }}">
-                    <img src="{{ $image->getNearest(150, 160)->url }}" width="150" />
+                    <img src="{{ $image->getNearest(150, 160, true)->url }}" width="150" />
                 </a>
             </li>
             @endif

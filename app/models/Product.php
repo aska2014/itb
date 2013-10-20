@@ -4,8 +4,6 @@ use Illuminate\Support\Str;
 
 class Product extends Kareem3d\Ecommerce\Product implements SlugInterface {
 
-    const PRICE_CURRENCY = 'EGP';
-
     const NORMAL = 0;
     const OFFER = 1;
     const FEATURED = 2;
@@ -18,6 +16,16 @@ class Product extends Kareem3d\Ecommerce\Product implements SlugInterface {
     protected static $specs = array(
         'title', 'description', 'specifications'
     );
+
+    /**
+     * @param array $attributes
+     */
+    public function __construct(array $attributes = array())
+    {
+        parent::__construct($attributes);
+
+        $this->currency = trans('words.currency');
+    }
 
     /**
      * @return array

@@ -4,13 +4,13 @@
 
     <div id="right">
         <div id="{{ lan_is('ar') ? 'headrightaboutus' : 'headright' }}"><span>{{ $product->title }}</span></div>
-        <div id="pic-deteils">{{ $product->getImage('main')->html(200, 230) }}</div>
+        <div id="pic-deteils">{{ $product->getImage('main')->html() }}</div>
         <div id="picsmall">
 
             @foreach($product->getImages('gallery') as $image)
-                @if($version = $image->getNearest(200, 230))
+                @if($version = $image->getNearest(200, 230, true))
                 <a id="pic-photo22" class="photohead55" href="{{ $version->url }}">
-                    <img src="{{ $version->url }}" alt="image" style="width:100px" />
+                    <img src="{{ $version->url }}" alt="image" style="height:114px;" />
                 </a>
                 @endif
             @endforeach

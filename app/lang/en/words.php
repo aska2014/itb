@@ -31,5 +31,7 @@ return array(
     'email'          => 'Email',
     'mobile'         => 'Mobile',
     'name'           => 'Name',
-    'message'        => 'Message'
+    'message'        => 'Message',
+
+    'currency'       => 'EGP'
 );

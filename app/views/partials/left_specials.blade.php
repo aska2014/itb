@@ -5,12 +5,20 @@
     <div id="oferspecials">
         @foreach($specials as $special)
         <div class="picofer">
+            <a href="{{ URL::product($special) }}">
             @if($image = $special->getImage('main'))
-                {{ $image->html() }}
+                <img src="{{ $image->getNearest(75, 61)->url }}" style="width:75px" />
             @endif
-            <span>{{ $special->title }}</span>
-                <span class="pric"><I class="ppp">{{ $special->price->format() }}</I>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<I
-                        class="qqq">{{ $special->offer_price->format() }}</I></span>
+            </a>
+            <a href="{{ URL::product($special) }}"><span>{{ $special->title }}</span></a>
+
+            <a href="{{ URL::product($special) }}">
+                <span class="pric"><I class="ppp">{{ $special->price->format() }}</I>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                @if($special->hasOfferPrice())
+                    <I class="qqq">{{ $special->offer_price->format() }}</I></span>
+                @endif
+            </a>
             <div class="linepfer"></div>
         </div>
         @endforeach

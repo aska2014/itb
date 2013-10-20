@@ -1,20 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07875d03-447e-46e9-a4f4-9368219212eb" name="Default" comment="" />
+    <list default="true" id="07875d03-447e-46e9-a4f4-9368219212eb" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\categories\main\JA-Nerine-â€“-JoomArt-Joomla-template.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\categories\main\NM1_Win8_011.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\categories\main\b_1264420883130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\categories\main\b_12644208831304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\categories\main\db.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\categories\main\project4.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\categories\main\vlcsnap_2012_12_26_09h12m02s107_large.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\115x115\Image-Preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\115x115\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-1751.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\200x230\Image-Preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\200x230\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-1751.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\1-Bannerlicious.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\1-Bannerlicious1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\71624_176990982473714_1252629855_n.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\71624_176990982473714_1252629855_n2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\71624_176990982473714_1252629855_n7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo710.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\ATT-logo9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\Image-Preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\Image-Preview5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\NM1_Win8_011.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\NM1_Win8_01110.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\all_browser_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\all_browser_icon0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\all_browser_icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\all_browser_icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\all_browser_icon6.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\all_browser_icon9.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\b_1264420883130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\b_12644208831301.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\b_126442088313010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\b_12644208831303.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\banner-ads.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\banner-ads1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\banner-ads10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\db.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\db0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\db3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\db8.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\design2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\design20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\design21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\design27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\mercor-website-template-home-full-width-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\mercor-website-template-home-full-width-39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\preview5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\preview7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\project4.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\project48.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-1751.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-17510.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-175102.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-175106.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-175107.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-175110.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-17512.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-17513.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-17514.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-17515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-17516.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\thumb_NileHoster-9Fk9Gt1Ck2Xh4Ua2Qc-17519.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large4.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large6.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large8.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large84.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large9.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\gallery\vlcsnap_2012_12_26_09h12m02s107_large93.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\1-Bannerlicious.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\1-Bannerlicious4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\Image-Preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\Image-Preview3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\Image-Preview4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\Image-Preview8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\JA-Nerine-â€“-JoomArt-Joomla-template.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\all_browser_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\all_browser_icon9.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\b_1264420883130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\b_126442088313010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\b_12644208831302.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\b_12644208831304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\db.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\preview9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\vlcsnap_2012_12_26_09h12m02s107_large.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\vlcsnap_2012_12_26_09h12m02s107_large7.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\vlcsnap_2012_12_26_09h12m02s107_large78.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\vlcsnap_2012_12_26_09h12m02s107_large9.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\vlcsnap_2012_12_26_09h12m02s107_large91.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\vlcsnap_2012_12_26_09h12m02s107_large910.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\products\main\vlcsnap_2012_12_26_09h12m02s107_large99.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\videos\150x160\vlcsnap_2012_12_26_09h12m02s107_large.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\videos\main\1-Bannerlicious.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\videos\main\1-Bannerlicious10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\videos\main\vlcsnap_2012_12_26_09h12m02s107_large.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Projects\ITB\www\public\albums\videos\main\vlcsnap_2012_12_26_09h12m02s107_large1.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www.zip" afterPath="$PROJECT_DIR$/www.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/freak/ApplicationClient.php" afterPath="$PROJECT_DIR$/app/freak/ApplicationClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/CategoriesController.php" afterPath="$PROJECT_DIR$/app/controllers/CategoriesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/ImageSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/ImageSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/Product.php" afterPath="$PROJECT_DIR$/app/models/Product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libraries/URL.php" afterPath="$PROJECT_DIR$/app/libraries/URL.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/buy_product.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/buy_product.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/categories.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/categories.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/composers.php" afterPath="$PROJECT_DIR$/app/composers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/workbench/kareem3d/freak-images/src/views/images/detail.blade.php" afterPath="$PROJECT_DIR$/workbench/kareem3d/freak-images/src/views/images/detail.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/left.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/left.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/left_specials.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/left_specials.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/product.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/product.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/product.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/product.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/related.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/related.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/slider.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/slider.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/lang/ar/words.php" afterPath="$PROJECT_DIR$/app/lang/ar/words.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/lang/en/words.php" afterPath="$PROJECT_DIR$/app/lang/en/words.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="D:/Testing/workbench/workbench/kareem3d/images/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381588702809" ignored="false" />
     <file path="/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597865459" ignored="false" />
     <file path="D:/Testing/workbench/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381588685708" ignored="false" />
     <file path="/client.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381589115102" ignored="false" />
-    <file path="/ApplicationClient.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381732412424" ignored="false" />
+    <file path="/ApplicationClient.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382279915133" ignored="false" />
     <file path="/RegisterController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597460456" ignored="false" />
     <file path="/artisan.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381589577391" ignored="false" />
     <file path="/FreakSeeder.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381658947121" ignored="false" />
     <file path="D:/Testing/workbench/workbench/kareem3d/membership/src/Kareem3d/Membership/User.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381590181850" ignored="false" />
     <file path="/a.dummy" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382182605044" ignored="false" />
-    <file path="/Dummy.txt" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382172356317" ignored="false" />
+    <file path="/Dummy.txt" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382276262712" ignored="false" />
     <file path="/ECommerceClient.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381602646424" ignored="false" />
     <file path="/Client.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381592272885" ignored="false" />
     <file path="/Freak.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597024963" ignored="false" />
@@ -22,43 +153,43 @@
     <file path="/FreakECommerceServiceProvider.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381592815618" ignored="false" />
     <file path="/add.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183358723" ignored="false" />
     <file path="/EcommerceServiceProvider.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597892673" ignored="false" />
-    <file path="/routes.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382182370364" ignored="false" />
-    <file path="/User.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381659035952" ignored="false" />
+    <file path="/routes.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382267245223" ignored="false" />
+    <file path="/User.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382279284983" ignored="false" />
     <file path="/ProductController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381667704469" ignored="false" />
-    <file path="/ImagesPackage.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381652870554" ignored="false" />
-    <file path="/Product.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382168605168" ignored="false" />
+    <file path="/ImagesPackage.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382249952470" ignored="false" />
+    <file path="/Product.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382277510010" ignored="false" />
     <file path="/form.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382105945378" ignored="false" />
-    <file path="/dummy.xml" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382105929407" ignored="false" />
+    <file path="/dummy.xml" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382268345843" ignored="false" />
     <file path="/CategoryController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381667761075" ignored="false" />
     <file path="/PermissionsController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597004010" ignored="false" />
-    <file path="/detail.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183408180" ignored="false" />
-    <file path="/data.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382122679965" ignored="false" />
+    <file path="/detail.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382250124323" ignored="false" />
+    <file path="/data.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382279747425" ignored="false" />
     <file path="/Category.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382168578776" ignored="false" />
-    <file path="/ImageSeeder.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381598059033" ignored="false" />
+    <file path="/ImageSeeder.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382250782937" ignored="false" />
     <file path="/global.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382177708058" ignored="false" />
-    <file path="/Price.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381660528134" ignored="false" />
-    <file path="/OrderController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381661008783" ignored="false" />
+    <file path="/Price.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382276395558" ignored="false" />
+    <file path="/OrderController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382279417175" ignored="false" />
     <file path="/layout1.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382178405280" ignored="false" />
     <file path="/start.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382188313333" ignored="false" />
     <file path="/Asset.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381603710666" ignored="false" />
     <file path="/FreakServiceProvider.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381651302989" ignored="false" />
     <file path="/home.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382176810251" ignored="false" />
     <file path="/end.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381604033760" ignored="false" />
-    <file path="/URL.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382182825172" ignored="false" />
+    <file path="/URL.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382267293570" ignored="false" />
     <file path="/products.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381606908771" ignored="false" />
-    <file path="/product.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382178620611" ignored="false" />
+    <file path="/product.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382256561564" ignored="false" />
     <file path="/Columnizer.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381612090746" ignored="false" />
-    <file path="/HomeController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382182408372" ignored="false" />
-    <file path="/composers.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382182334679" ignored="false" />
+    <file path="/HomeController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382268005433" ignored="false" />
+    <file path="/composers.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382278137648" ignored="false" />
     <file path="/ProductAlgorithm.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382172702590" ignored="false" />
     <file path="/Produc.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381612205544" ignored="false" />
     <file path="/Video.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183577468" ignored="false" />
     <file path="/2013_10_12_200236_add_product_type.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381653757064" ignored="false" />
     <file path="/2013_10_12_200310_create_videos_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381608203156" ignored="false" />
     <file path="/deteiles.html" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381608536552" ignored="false" />
-    <file path="/related.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382179139291" ignored="false" />
-    <file path="/left.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382177033703" ignored="false" />
-    <file path="/categories.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183117733" ignored="false" />
+    <file path="/related.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382256408933" ignored="false" />
+    <file path="/left.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382256990657" ignored="false" />
+    <file path="/categories.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382257006641" ignored="false" />
     <file path="/Categ.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381611888416" ignored="false" />
     <file path="/Manager.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381651240261" ignored="false" />
     <file path="/helpers.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382181455352" ignored="false" />
@@ -69,7 +200,7 @@
     <file path="/100.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381654527053" ignored="false" />
     <file path="/FreakCategoryController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382172162376" ignored="false" />
     <file path="/FreakController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382120844759" ignored="false" />
-    <file path="/slider.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381668374711" ignored="false" />
+    <file path="/slider.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382268204912" ignored="false" />
     <file path="/FreakVideoController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183190038" ignored="false" />
     <file path="/videos.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382176992466" ignored="false" />
     <file path="/VideosController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381692890145" ignored="false" />
@@ -77,10 +208,10 @@
     <file path="/videos.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381663790360" ignored="false" />
     <file path="/video.html" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381663914062" ignored="false" />
     <file path="/header.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382182736113" ignored="false" />
-    <file path="/CategoriesController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381691560089" ignored="false" />
+    <file path="/CategoriesController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382257267895" ignored="false" />
     <file path="/SlugInterface.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381668175576" ignored="false" />
     <file path="/BaseController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381692988016" ignored="false" />
-    <file path="/left_specials.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382178276192" ignored="false" />
+    <file path="/left_specials.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382257555528" ignored="false" />
     <file path="/about-us.html" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381677940899" ignored="false" />
     <file path="/distribution.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381678036749" ignored="false" />
     <file path="/about-us.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381682277784" ignored="false" />
@@ -102,10 +233,10 @@
     <file path="/2013_07_30_112023_create_images_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382120664352" ignored="false" />
     <file path="/menu.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382176231841" ignored="false" />
     <file path="/titles.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382175535897" ignored="false" />
-    <file path="/words.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382177824987" ignored="false" />
+    <file path="/words.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382276609624" ignored="false" />
     <file path="/footer.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382175748174" ignored="false" />
     <file path="/footer.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382176515001" ignored="false" />
-    <file path="/buy_product.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382179201197" ignored="false" />
+    <file path="/buy_product.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382268351652" ignored="false" />
     <file path="/style00.css" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382178563202" ignored="false" />
     <file path="/product.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382179063308" ignored="false" />
     <file path="/about_us.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382181807492" ignored="false" />
@@ -119,6 +250,17 @@
     <file path="/2013_10_19_115059_create_video_specs_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183466152" ignored="false" />
     <file path="/app.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382187148799" ignored="false" />
     <file path="/database.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382187157791" ignored="false" />
+    <file path="/index.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382247939747" ignored="false" />
+    <file path="/ImageManager.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382249821832" ignored="false" />
+    <file path="/Image.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382256453449" ignored="false" />
+    <file path="/VersionAlgorithm.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382250181238" ignored="false" />
+    <file path="/category.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382257102858" ignored="false" />
+    <file path="/messages.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382266647955" ignored="false" />
+    <file path="/2013_10_20_111137_add_order_message.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382267525760" ignored="false" />
+    <file path="/2013_10_20_111538_add_user_info.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382267771767" ignored="false" />
+    <file path="/Order.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382278668736" ignored="false" />
+    <file path="/UserInfo.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382279308004" ignored="false" />
+    <file path="/validation.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382279462795" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,25 +286,33 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/partials/header.blade.php" />
-        <option value="$PROJECT_DIR$/app/libraries/URL.php" />
-        <option value="$PROJECT_DIR$/app/menu.php" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
-        <option value="$PROJECT_DIR$/app/views/pages/videos.blade.php" />
-        <option value="$PROJECT_DIR$/app/views/pages/categories.blade.php" />
+        <option value="$PROJECT_DIR$/app/models/Price.php" />
+        <option value="$PROJECT_DIR$/vendor/kareem3d/ecommerce/src/Kareem3d/Ecommerce/Product.php" />
         <option value="$PROJECT_DIR$/app/lang/en/words.php" />
         <option value="$PROJECT_DIR$/app/lang/ar/words.php" />
-        <option value="$PROJECT_DIR$/app/freak/Controllers/FreakVideoController.php" />
-        <option value="$PROJECT_DIR$/app/freak/views/videos/add.blade.php" />
-        <option value="$PROJECT_DIR$/app/freak/views/videos/detail.blade.php" />
-        <option value="$PROJECT_DIR$/app/models/Video.php" />
-        <option value="$PROJECT_DIR$/app/config/production/app.php" />
-        <option value="$PROJECT_DIR$/app/config/production/database.php" />
-        <option value="$PROJECT_DIR$/bootstrap/start.php" />
-        <option value="$PROJECT_DIR$/app/database/migrations/2013_10_19_115059_create_video_specs_table.php" />
+        <option value="$PROJECT_DIR$/app/models/Product.php" />
+        <option value="$PROJECT_DIR$/app/composers.php" />
+        <option value="$PROJECT_DIR$/vendor/kareem3d/ecommerce/src/Kareem3d/Ecommerce/Order.php" />
+        <option value="$PROJECT_DIR$/vendor/kareem3d/membership/src/Kareem3d/Membership/UserInfo.php" />
+        <option value="$PROJECT_DIR$/vendor/kareem3d/membership/src/Kareem3d/Membership/User.php" />
+        <option value="$PROJECT_DIR$/app/views/partials/buy_product.blade.php" />
+        <option value="$PROJECT_DIR$/app/controllers/OrderController.php" />
+        <option value="$PROJECT_DIR$/app/lang/en/validation.php" />
+        <option value="$PROJECT_DIR$/app/lang/ar/validation.php" />
+        <option value="$PROJECT_DIR$/app/freak/views/orders/data.blade.php" />
+        <option value="$PROJECT_DIR$/app/freak/Controllers/FreakOrderController.php" />
+        <option value="$PROJECT_DIR$/app/freak/ApplicationClient.php" />
       </list>
     </option>
   </component>
@@ -170,10 +320,10 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -199,6 +349,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -227,171 +378,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="freak" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="freak" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -427,6 +429,26 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value="VISIBILITY_SORTER,Show Inherited" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="07875d03-447e-46e9-a4f4-9368219212eb" name="Default" comment="" />
@@ -436,15 +458,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26519758" sideWeight="0.6712095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25378788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27348486" sideWeight="0.6712095" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -453,6 +474,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -519,115 +541,119 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Validation/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1788" column="26" selection-start="41486" selection-end="41492" vertical-scroll-proportion="0.5009346">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/categories.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="88" selection-start="676" selection-end="681" vertical-scroll-proportion="0.635514">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lang/en/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="0" selection-end="127" vertical-scroll-proportion="0.0635514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lang/ar/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="50" selection-start="112" selection-end="112" vertical-scroll-proportion="0.1271028">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/OrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="0" selection-start="2015" selection-end="2015" vertical-scroll-proportion="0.40373832">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/partials/buy_product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="10" selection-start="439" selection-end="439" vertical-scroll-proportion="0.5084112">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workbench/kareem3d/freak-ecommerce/src/Kareem3d/FreakECommerce/FreakECommerceServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="31" selection-start="508" selection-end="508" vertical-scroll-proportion="0.54018694">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakCategoryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="48" selection-start="1957" selection-end="2062" vertical-scroll-proportion="0.54018694">
+        <state line="0" column="0" selection-start="0" selection-end="2737" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/views/categories/add.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/freak/views/products/data.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="2014" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="802" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/views/videos/detail.blade.php">
+    <entry file="file://$PROJECT_DIR$/workbench/kareem3d/freak/src/views/elements/tools.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="195" selection-end="195" vertical-scroll-proportion="0.2224299">
+        <state line="0" column="0" selection-start="0" selection-end="437" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/views/videos/data.blade.php">
+    <entry file="file://$PROJECT_DIR$/vendor/kareem3d/ecommerce/src/Kareem3d/Ecommerce/Order.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="98" column="30" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.5114943">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/views/videos/add.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakOrderController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="51" selection-start="1851" selection-end="1851" vertical-scroll-proportion="1.2701149">
+        <state line="17" column="38" selection-start="347" selection-end="347" vertical-scroll-proportion="0.5084112">
+          <folding>
+            <element signature="e#7#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/freak/views/orders/data.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="5" selection-start="413" selection-end="413" vertical-scroll-proportion="0.7943925">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/kareem3d/ecommerce/src/migrations/2013_10_18_145453_create_product_specs_table.php">
+    <entry file="file://$PROJECT_DIR$/workbench/kareem3d/freak/src/Kareem3d/Freak/Core/Element.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="36" selection-start="358" selection-end="553" vertical-scroll-proportion="0.54018694">
+        <state line="209" column="0" selection-start="3746" selection-end="4107" vertical-scroll-proportion="0.30093458">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/kareem3d/eloquent/src/Kareem3d/Eloquent/Model.php">
+    <entry file="file://$PROJECT_DIR$/app/freak/ApplicationClient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="1258" selection-end="1258" vertical-scroll-proportion="0.69906545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="10" selection-start="1506" selection-end="1905" vertical-scroll-proportion="0.85794395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Video.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.69906545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakProductController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/production/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="44" selection-end="44" vertical-scroll-proportion="0.1271028">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/production/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="216" selection-end="223" vertical-scroll-proportion="0.2859813">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_10_19_115059_create_video_specs_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="41" selection-start="260" selection-end="260" vertical-scroll-proportion="0.41308412">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.2542056">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakVideoController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="0" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.7457944">
-          <folding />
+        <state line="43" column="11" selection-start="1169" selection-end="1169" vertical-scroll-proportion="1.2074766">
+          <folding>
+            <element signature="e#7#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
