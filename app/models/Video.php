@@ -31,6 +31,6 @@ class Video extends \Kareem3d\Eloquent\Model implements SlugInterface {
      */
     public function getSlug()
     {
-        return Str::slug(Str::words($this->title, 3, ''));
+        return Str::slug(Str::words($this->en('title'), 3, ''));
     }
 }

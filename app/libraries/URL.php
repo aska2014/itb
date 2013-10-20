@@ -47,11 +47,7 @@ class URL extends LaravelURL {
      */
     public static function video( Video $video )
     {
-        $id = $video->id;
-
-        $video = $video->getSlug();
-
-        return URL::route('video', compact('video', 'id'));
+        return URL::route('videos');
     }
 
     /**

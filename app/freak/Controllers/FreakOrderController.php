@@ -18,13 +18,6 @@ class FreakOrderController extends FreakController {
     public function __construct( Order $orders )
     {
         $this->orders = $orders;
-
-        $this->usePackages( 'Image' );
-
-        $this->setExtra(array(
-            'image-group-name'  => 'Order.Main',
-            'image-type'        => 'main',
-        ));
     }
 
     /**

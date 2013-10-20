@@ -514,6 +514,7 @@ src: url('font/Hacen Tunisia.woff');
 	font-size: 17px;
 	font-weight: bold;
 	line-height: 45px;
+	font-family:
 }
 #textaboutas00 .kkk{
 	color: red;
@@ -534,6 +535,7 @@ src: url('font/Hacen Tunisia.woff');
 #textPromise{
 	float: right;
 	text-align: right;
+	list-style: initial;
 	margin: 0 0 0 20px;
 	font-size: 15px;
 }

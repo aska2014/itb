@@ -12,7 +12,7 @@
                 @foreach($videos as $video)
                 @if($image = $video->getImage('main'))
                 <li>
-                    <a href="#">
+                    <a href="{{ URL::video($video) }}">
                         {{ $image->html(150, 160) }}
                     </a>
                 </li>

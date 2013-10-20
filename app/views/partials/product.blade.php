@@ -4,4 +4,5 @@
     @endif
     <span class="salarynamber">{{ $product->getActualPrice()->format() }}</span>
     <span class="infotext">{{ $product->title }}</span>
+    <a href="#" class="linkbtncart"><span>Add To Cart</span></a>
 </div>

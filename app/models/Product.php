@@ -7,8 +7,7 @@ class Product extends Kareem3d\Ecommerce\Product implements SlugInterface {
     const NORMAL = 0;
     const OFFER = 1;
     const FEATURED = 2;
-    const LATEST = 3;
-    const SPECIAL = 4;
+    const SPECIAL = 3;
 
     /**
      * @var array
@@ -36,7 +35,6 @@ class Product extends Kareem3d\Ecommerce\Product implements SlugInterface {
             self::NORMAL => 'Normal',
             self::OFFER => 'Offers',
             self::FEATURED => 'Featured',
-            self::LATEST => 'Latest',
             self::SPECIAL => 'Specials',
         );
     }

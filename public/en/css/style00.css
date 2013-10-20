@@ -141,13 +141,11 @@ div, h1, h2, h3, h4, p, form, label, input, textarea, img, span, a,ul{
 	background-color: #fff;
 	width: 960px;
 	overflow: hidden;
-	padding: 0 0 20px 0;
-
 }
 #left{
 	float: left;
 	width: 220px;
-	margin:  20px 0 0 10px;
+	margin:  15px 0 0 10px;
 }
 #cart span{
 	float: left;
@@ -290,7 +288,7 @@ div, h1, h2, h3, h4, p, form, label, input, textarea, img, span, a,ul{
 	float: right;
 	width: 700px;
 	height: 31px;
-	margin: 20px 0 20px 0;
+	margin: 25px 0 20px 0;
 }
 #headright span{
 	float: left;
@@ -363,7 +361,7 @@ div, h1, h2, h3, h4, p, form, label, input, textarea, img, span, a,ul{
 	margin: 0 10px 0 0;
 }
 #bk-footer{
-	background: url(../img/pic-head.png) center repeat;
+	background: url(../img/pic-footer.png) center repeat;
 	float: left;
 	width: 960px;
 	overflow: hidden;
@@ -530,9 +528,10 @@ div, h1, h2, h3, h4, p, form, label, input, textarea, img, span, a,ul{
 .products11{
 	background: url(../img/bk-proudact.png) no-repeat;
 	float: left;
-	width: 341px;
-	margin: 10px 14px 0 0;
-	height: 165px;
+	width: 340px;
+	margin: 10px 13px 0 0;
+	height: 140;
+	border: 1px solid #0D74D3;
 }
 .products11 img{
 	float: left;
@@ -594,7 +593,7 @@ div, h1, h2, h3, h4, p, form, label, input, textarea, img, span, a,ul{
     float: left;
     width: 696px;
     border: 2px solid rgb(121, 131, 182);
-	margin: -30px 0 0 0;
+	margin: 0 0 20px 0;
 
 }
 #pagecontactus form{
@@ -811,4 +810,15 @@ div, h1, h2, h3, h4, p, form, label, input, textarea, img, span, a,ul{
 #button button{
 	width: 100px;
 	height: 40px;
+}
+#pic-deteils span{
+	float: left;
+	font-size: 15px;
+	text-align: left;
+}
+#headspical span{
+	float: left;
+	color: fff;
+	margin: 4px 5px 0;
+	font-size: 15px;
 }

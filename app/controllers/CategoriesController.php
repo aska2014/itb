@@ -20,7 +20,9 @@ class CategoriesController extends BaseController {
      */
     public function all()
     {
-        return $this->layout->nest('content', 'pages.categories');
+        $categories = $this->categories->all();
+
+        return $this->layout->nest('content', 'pages.categories', compact('categories'));
     }
 
     /**

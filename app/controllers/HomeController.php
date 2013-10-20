@@ -31,9 +31,9 @@ class HomeController extends BaseController {
 
         $videos = $this->videos->all();
 
-        $latest = $this->productsAlgorithm->latest()->get();
+        $latest = $this->productsAlgorithm->latest()->take(6)->get();
 
-        $featured = $this->productsAlgorithm->featured()->get();
+        $featured = $this->productsAlgorithm->featured()->take(3)->get();
 
         return $this->layout->nest('content', 'pages.home', compact('offers', 'videos', 'latest', 'featured'));
 	}

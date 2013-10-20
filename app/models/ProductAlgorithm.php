@@ -30,7 +30,11 @@ class ProductAlgorithm extends \Kareem3d\Eloquent\Algorithm {
 
             })->orderBy(DB::raw('RAND()'))->get(array('id'));
 
-        if(! empty($ids)) $this->getQuery()->whereIn('id', $ids);
+        $realIds = array();
+
+        foreach($ids as $id) $realIds[] = $id->id;
+
+        if(! empty($ids)) $this->getQuery()->whereIn('id', $realIds);
 
         return $this;
     }
@@ -60,7 +64,7 @@ class ProductAlgorithm extends \Kareem3d\Eloquent\Algorithm {
      */
     public function latest()
     {
-        $this->getQuery()->where('type', Product::LATEST);
+        $this->getQuery()->orderBy('id', 'DESC');
 
         return $this;
     }

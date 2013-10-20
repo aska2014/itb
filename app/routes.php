@@ -7,7 +7,7 @@ Route::get(menu()->useItem('our_products')->getUri() , array('as' => 'categories
 //Route::get(menu()->useItem('special_offers')->getUri() , array('as' => 'special_offers', 'uses' => 'HomeController@specials'));
 
 
-Route::get('video/{video}-{id}.html'              , array('as' => 'video', 'uses' => 'VideosController@show'))->where('id', '[0-9]+')->where('video', '[^./]+');
+Route::get('video/{video}-{id}.html'        , array('as' => 'video', 'uses' => 'VideosController@show'))->where('id', '[0-9]+')->where('video', '[^./]+');
 Route::get('{category}-{id}.html'           , array('as' => 'category', 'uses' => 'CategoriesController@show'))->where('id', '[0-9]+')->where('category', '[^./]+');
 Route::get('{category}/{product}-{id}.html' , array('as' => 'product', 'uses' => 'ProductsController@show'))->where('id', '[0-9]+')->where('category', '[^./]+')->where('product', '[^./]+');
 

@@ -62,7 +62,9 @@ class OrderController extends BaseController {
 
         else
         {
-            return Redirect::back()->withErrors($this->errors);
+            $previousUrl = Redirect::back()->getTargetUrl() . '#send';
+
+            return Redirect::to( $previousUrl )->withErrors($this->errors)->withInput();
         }
     }
 
@@ -73,12 +75,12 @@ class OrderController extends BaseController {
     protected function createUser(array $inputs = array())
     {
         $validator = Validator::make($inputs, array(
-            'email' => 'required|email',
-            'mobile' => 'required'
+            'contact_email'          => 'required|email',
+            'mobile'                 => 'required'
         ), array(
-            'email.required' => trans('validation.email'),
-            'email.email'    => trans('validation.email'),
-            'mobile.required' => trans('validation.mobile'),
+            'contact_email.required' => trans('validation.email'),
+            'contact_email.email'    => trans('validation.email'),
+            'mobile.required'        => trans('validation.mobile'),
         ));
 
         if($validator->fails())
@@ -88,19 +90,7 @@ class OrderController extends BaseController {
 
         else
         {
-            // Get user by email or create new one...
-            if(! $user = $this->users->getByEmail($inputs['email']))
-            {
-                $user = $this->users->create(array(
-                    'email' => $inputs['email']
-                ));
-            }
-
-            unset($inputs['email']);
-
-            $userInfo = $this->usersInfo->newInstance($inputs);
-
-            return $user->addInfo($userInfo);
+            return $this->usersInfo->create($inputs);
         }
     }
 

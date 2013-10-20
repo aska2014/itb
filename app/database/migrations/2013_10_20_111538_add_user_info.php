@@ -15,6 +15,8 @@ class AddUserInfo extends Migration {
 		Schema::table('users_info', function(Blueprint $table)
 		{
             $table->string('mobile');
+
+            $table->string('contact_email');
 		});
 	}
 
