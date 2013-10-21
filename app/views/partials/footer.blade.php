@@ -4,33 +4,21 @@
             <span>{{ trans('words.egypt') }}</span>
             <img src="{{ lan_asset('img/1377442371_Flag_of_Egypt.png') }}">
             <p>
-                Office Address : El Zahra’a Street No.8 – Benha – Al Qualubiya.
-                Stores Address : Tant El-Gazira – Toukh – Al-Qualubiya
-                Tel.: +2 013 249 26 17
-                Mobile: +2 012 005 331 3
-                Email : info@itbswiss.com
+                {{ $footer->part1 }}
             </p>
         </div>
         <div id="blockfooter11">
             <span>{{ trans('words.switzerland') }}</span>
             <img src="{{ lan_asset('img/1377442341_Flag_of_Switzerland.png') }}">
             <p>
-                Office Address : El Zahra’a Street No.8 – Benha – Al Qualubiya.
-                Stores Address : Tant El-Gazira – Toukh – Al-Qualubiya
-                Tel.: +2 013 249 26 17
-                Mobile: +2 012 005 331 3
-                Email : info@itbswiss.com
+                {{ $footer->part2 }}
             </p>
         </div>
         <div id="blockfooter11">
             <span>{{ trans('words.germany') }}</span>
             <img src="{{ lan_asset('img/1377442347_Flag_of_United_Kingdom.png') }}">
             <p>
-                Office Address : El Zahra’a Street No.8 – Benha – Al Qualubiya.
-                Stores Address : Tant El-Gazira – Toukh – Al-Qualubiya
-                Tel.: +2 013 249 26 17
-                Mobile: +2 012 005 331 3
-                Email : info@itbswiss.com
+                {{ $footer->part3 }}
             </p>
         </div>
         <div id="blockfooter22">

@@ -13,7 +13,9 @@
         <div id="productspage">
             @foreach($categories as $category)
             <div class="products11">
-                <a href="{{ URL::category($category) }}"><img src="{{ $category->getImage('main')->getNearest(114, 115)->url }}"></a>
+                @if($image = $category->getImage('main'))
+                <a href="{{ URL::category($category) }}">{{ $image->html(114, 115, true) }}</a>
+                @endif
                 <a href="{{ URL::category($category) }}"><h4>{{ $category->title }}</h4></a>
             </div>
             @endforeach

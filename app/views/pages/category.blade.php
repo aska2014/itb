@@ -14,7 +14,9 @@
 
         <div id="{{ lan_is('ar') ? 'headrightaboutus' : 'headright' }}"><span>{{ $category->title }}</span></div>
 
-        @include('partials.products')
+        @include('partials.products', array('rows' => 2))
 
     </div>
+
+    {{ $paginator->links() }}
 </div>

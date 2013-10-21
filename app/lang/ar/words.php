@@ -19,15 +19,15 @@ return array(
     'send'           => 'إرسال',
 
     'egypt'          => 'مصر',
-    'Switzerland'    => 'سويسرا',
-    'england'        => 'انجلترا',
+    'switzerland'    => 'سويسرا',
+    'germany'        => 'انجلترا',
 
     'connect'        => 'تابعنا على',
 
     'copyrights'     => 'جميع الحقوق محفوظة لشركة I.T.B',
 
 
-    'design_by'      => 'DESIGN BY SWAQNY',
+    'design_by'      => 'تصميم سوفنى',
 
     'email'          => 'الإيميل',
     'mobile'         => 'رقم الموبيل',

@@ -14,7 +14,7 @@
         </div>
         <div id="contactheader">
             <span>{{ trans('words.email') }} : info@itbswiss.com</span></br>
-            <span>{{ trans('words.email') }}:  012 005 331 3</span>
+            <span>{{ trans('words.mobile') }}:  012 005 331 3</span>
         </div>
         <div id="line22"></div>
     </div>

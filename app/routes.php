@@ -1,11 +1,12 @@
 <?php
 
-Route::get(menu()->useItem('home')->getUri()       , array('as' => 'home', 'uses' => 'HomeController@index'));
-Route::get(menu()->useItem('videos')->getUri()     , array('as' => 'videos', 'uses' => 'VideosController@all'));
+Route::get(menu()->useItem('home')->getUri()         , array('as' => 'home', 'uses' => 'HomeController@index'));
+Route::get(menu()->useItem('videos')->getUri()       , array('as' => 'videos', 'uses' => 'VideosController@all'));
 Route::get(menu()->useItem('our_products')->getUri() , array('as' => 'categories', 'uses' => 'CategoriesController@all'));
 
 //Route::get(menu()->useItem('special_offers')->getUri() , array('as' => 'special_offers', 'uses' => 'HomeController@specials'));
 
+Route::get(menu()->useItem('contact_us')->getUri()   , array('as' => 'contact-us', 'uses' => 'ContactUsController@index'));
 
 Route::get('video/{video}-{id}.html'        , array('as' => 'video', 'uses' => 'VideosController@show'))->where('id', '[0-9]+')->where('video', '[^./]+');
 Route::get('{category}-{id}.html'           , array('as' => 'category', 'uses' => 'CategoriesController@show'))->where('id', '[0-9]+')->where('category', '[^./]+');
@@ -48,4 +49,16 @@ Route::get('/test', function()
             $version->save();
         }
     }
+});
+
+
+Route::get('/add-image', function()
+{
+    $user = \Kareem3d\Freak\DBRepositories\User::find(1);
+
+    $userInfo = $user->setInfo(new \Kareem3d\Membership\UserInfo(array(
+
+        'name' => 'Kareem Mohamed'
+
+    )));
 });

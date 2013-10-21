@@ -34,10 +34,12 @@ class CategoriesController extends BaseController {
     {
         $category = $this->categories->find($id);
 
-        $products = $category->products;
+        $paginator = $category->products()->paginate(6);
+
+        $products  = $paginator->getCollection();
 
         $this->preventDuplicate($category, $title);
 
-        return $this->layout->nest('content', 'pages.category', compact('category', 'products'));
+        return $this->layout->nest('content', 'pages.category', compact('category', 'products', 'paginator'));
     }
 }

@@ -19,6 +19,7 @@ class ApplicationClient extends Client {
             Element::withDefaults('product', new Product()),
             Element::withDefaults('category', new Category()),
             Element::withDefaults('order', new Order()),
+            Element::withDefaults('footer', new Footer()),
         );
     }
 
@@ -48,8 +49,17 @@ class ApplicationClient extends Client {
             $element->setMenuItem(Item::make(
                 $element->getName(), $element->getUri(), Icon::make('icon-archive')
             )->addChildren(array(
-                Item::make('Display all ' . Str::plural($element->getName()), $element->getUri(), Icon::make('icol-inbox'))
-            )));
+                    Item::make('Display all ' . Str::plural($element->getName()), $element->getUri(), Icon::make('icol-inbox'))
+                )));
+        });
+
+        $freak->modifyElement('footer', function(Element $element)
+        {
+            $element->setMenuItem(Item::make(
+                $element->getName(), $element->getUri(), Icon::make('icon-archive')
+            )->addChildren(array(
+                    Item::make('Edit footer', $element->getUri('/create'), Icon::make('icol-inbox'))
+                )));
         });
     }
 

@@ -31,6 +31,12 @@ View::composer('partials.header', function( $view )
     ));
 });
 
+
+View::composer('partials.footer', function($view)
+{
+    $view->footer = App::make('Footer')->getOnlyOne();
+});
+
 View::composer('partials.left', function($view)
 {
     if(! isset($view->menuItems))

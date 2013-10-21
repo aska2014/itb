@@ -26,7 +26,7 @@ class Columnizer {
     {
         $array = array();
 
-        for($i = 0; $i < $items->count(); $i += 3)
+        for($i = 0; $i < $items->count(); $i += $no)
         {
             $array[] = $items->slice($i, $no);
         }

@@ -29,11 +29,11 @@
         </div>
         <div id="headright"><span>{{ trans('words.latest') }}</span></div>
 
-        @include('partials.products', array('products' => $latest))
+        @include('partials.products', array('products' => $latest, 'rows' => 2))
 
         <div id="headright"><span>{{ trans('words.featured') }}</span></div>
 
-        @include('partials.products', array('products' => $featured))
+        @include('partials.featured', array('products' => $featured, 'rows' => 1))
 
     </div>
 </div>

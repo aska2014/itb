@@ -19,8 +19,8 @@ return array(
     'send'           => 'Send',
 
     'egypt'          => 'Egypt',
-    'Switzerland'    => 'Switzerland',
-    'england'        => 'England',
+    'switzerland'    => 'Switzerland',
+    'germany'        => 'England',
 
     'connect'        => 'Connect with us',
 
