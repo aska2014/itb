@@ -8,18 +8,33 @@ function HtmlSubmitter( modal )
     });
 
     this.stepNo = 1;
+
+    this.totalSteps = 1;
+
+    this.addLoader();
 }
 
-HtmlSubmitter.prototype.startSubmitting = function()
+
+HtmlSubmitter.prototype.addLoader = function()
+{
+    this.modal.append('<div style="width:250px; height:20px; border:2px solid #333;">' +
+        '<div id="submitter_loader" style="height:20px; background:#FF3617"></div></div>');
+}
+
+HtmlSubmitter.prototype.startSubmitting = function( totalSteps )
 {
     this.modal.dialog( 'open' );
+
+    this.totalSteps = totalSteps;
+
+    console.log(totalSteps);
 }
 
 HtmlSubmitter.prototype.addStep = function( form )
 {
-    var body = 'Submitting step ' + this.stepNo;
+    var width = (this.stepNo / this.totalSteps) * 250;
 
-    this.modal.append('<p class="step">' + body + '</p>');
+    $("#submitter_loader").width(width);
 
     this.stepNo ++;
 }

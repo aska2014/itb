@@ -86,9 +86,11 @@ class Menu {
      */
     public function getUnusedItems()
     {
-        return array_filter($this->items, function( MenuItem $item )
+        $usedItems = $this->usedItems;
+
+        return array_filter($this->items, function( MenuItem $item ) use($usedItems)
         {
-            foreach($this->usedItems as $usedItem)
+            foreach($usedItems as $usedItem)
             {
                 // If this item already used then return false
                 if($item->same($usedItem))

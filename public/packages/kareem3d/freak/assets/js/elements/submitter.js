@@ -15,7 +15,7 @@ Submitter.prototype.run = function()
 {
     this.i = 0;
 
-    this.html.startSubmitting();
+    this.html.startSubmitting( this.forms.length );
 
     this.submitNextForm();
 }

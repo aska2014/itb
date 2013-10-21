@@ -5,11 +5,6 @@ class Lan {
     const KEY_NAME = 'language';
 
     /**
-     * @var mixed
-     */
-    protected $storage;
-
-    /**
      * @var array
      */
     protected $available;
@@ -25,13 +20,11 @@ class Lan {
     protected $language = null;
 
     /**
-     * @param mixed $storage
      * @param array $available
      * @param $default
      */
-    public function __construct( $storage, array $available, $default )
+    public function __construct( array $available, $default )
     {
-        $this->storage = $storage;
         $this->available = $available;
         $this->default = $default;
     }
@@ -52,7 +45,7 @@ class Lan {
     {
         if($this->language) return $this->language;
 
-        $language = $this->storage->get( self::KEY_NAME );
+        $language = Session::get( self::KEY_NAME );
 
         // If not isset language or not correct then change it to default and return the default
         if(! $language || !in_array($language, $this->available))
@@ -73,7 +66,7 @@ class Lan {
      */
     public function change( $lan )
     {
-        $this->storage->put(self::KEY_NAME, $lan);
+        Session::put(self::KEY_NAME, $lan);
     }
 
 }

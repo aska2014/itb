@@ -33,3 +33,19 @@ Route::get('change-language/{language}', array('as' => 'change-language', functi
 
     }catch(Exception $e) { return Redirect::route('home'); }
 }));
+
+
+Route::get('/test', function()
+{
+    $versions = \Kareem3d\Images\Version::all();
+
+    foreach($versions as $version)
+    {
+        if(strpos($version->url, 'itb.loc') !== false)
+        {
+            $version->url = str_replace('www.itb.loc', 'www.itbswiss.com', $version->url);
+
+            $version->save();
+        }
+    }
+});

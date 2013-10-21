@@ -1,1 +1,0 @@
-@extends('freak::master.layout1')

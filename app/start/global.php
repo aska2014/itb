@@ -19,7 +19,7 @@ require app_path('libraries/helpers.php');
 // Bind Language and menu singletons
 App::singleton('Language', function()
 {
-    return new Lan(App::make('Illuminate\Session\Store'), array('en', 'ar'), 'en');
+    return new Lan(array('en', 'ar'), 'en');
 });
 
 App::singleton('Menu', function()

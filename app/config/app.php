@@ -120,8 +120,6 @@ return array(
         'Kareem3d\Freak\FreakServiceProvider',
         'Kareem3d\FreakImages\FreakImagesServiceProvider',
 
-        'Kareem3d\FreakECommerce\FreakECommerceServiceProvider',
-
     ),
 
 	/*
