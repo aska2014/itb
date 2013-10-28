@@ -1,166 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07875d03-447e-46e9-a4f4-9368219212eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/freak/ApplicationClient.php" afterPath="$PROJECT_DIR$/app/freak/ApplicationClient.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/CategoriesController.php" afterPath="$PROJECT_DIR$/app/controllers/CategoriesController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libraries/Columnizer.php" afterPath="$PROJECT_DIR$/app/libraries/Columnizer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/categories.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/categories.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/category.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/category.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/composers.php" afterPath="$PROJECT_DIR$/app/composers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/footer.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/footer.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/header.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/header.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/home.blade.php" afterPath="$PROJECT_DIR$/app/views/pages/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/products.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/products.blade.php" />
+    <list default="true" id="88af0282-5bbe-4680-9875-3aaab66b3310" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/BaseController.php" afterPath="$PROJECT_DIR$/app/controllers/BaseController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/app.php" afterPath="$PROJECT_DIR$/app/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/layout1.blade.php" afterPath="$PROJECT_DIR$/app/views/layouts/layout1.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/partials/product.blade.php" afterPath="$PROJECT_DIR$/app/views/partials/product.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/lang/ar/words.php" afterPath="$PROJECT_DIR$/app/lang/ar/words.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/lang/en/words.php" afterPath="$PROJECT_DIR$/app/lang/en/words.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="D:/Testing/workbench/workbench/kareem3d/images/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381588702809" ignored="false" />
-    <file path="/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382302539442" ignored="false" />
-    <file path="D:/Testing/workbench/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381588685708" ignored="false" />
-    <file path="/client.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381589115102" ignored="false" />
-    <file path="/ApplicationClient.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382344471490" ignored="false" />
-    <file path="/RegisterController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597460456" ignored="false" />
-    <file path="/artisan.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381589577391" ignored="false" />
-    <file path="/FreakSeeder.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381658947121" ignored="false" />
-    <file path="D:/Testing/workbench/workbench/kareem3d/membership/src/Kareem3d/Membership/User.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381590181850" ignored="false" />
-    <file path="/a.dummy" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345957400" ignored="false" />
-    <file path="/Dummy.txt" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382337870488" ignored="false" />
-    <file path="/ECommerceClient.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381602646424" ignored="false" />
-    <file path="/Client.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381592272885" ignored="false" />
-    <file path="/Freak.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597024963" ignored="false" />
-    <file path="/FreakProductController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382170059797" ignored="false" />
-    <file path="/FreakECommerceServiceProvider.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381592815618" ignored="false" />
-    <file path="/add.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382348485813" ignored="false" />
-    <file path="/EcommerceServiceProvider.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597892673" ignored="false" />
-    <file path="/routes.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345936381" ignored="false" />
-    <file path="/User.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382339578864" ignored="false" />
-    <file path="/ProductController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381667704469" ignored="false" />
-    <file path="/ImagesPackage.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382249952470" ignored="false" />
-    <file path="/Product.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382277510010" ignored="false" />
-    <file path="/form.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382105945378" ignored="false" />
-    <file path="/dummy.xml" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382287979054" ignored="false" />
-    <file path="/CategoryController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381667761075" ignored="false" />
-    <file path="/PermissionsController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381597004010" ignored="false" />
-    <file path="/detail.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382288185118" ignored="false" />
-    <file path="/data.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382287888132" ignored="false" />
-    <file path="/Category.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382168578776" ignored="false" />
-    <file path="/ImageSeeder.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382250782937" ignored="false" />
-    <file path="/global.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382337940014" ignored="false" />
-    <file path="/Price.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382276395558" ignored="false" />
-    <file path="/OrderController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382288323412" ignored="false" />
-    <file path="/layout1.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382178405280" ignored="false" />
-    <file path="/start.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382338396031" ignored="false" />
-    <file path="/Asset.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381603710666" ignored="false" />
-    <file path="/FreakServiceProvider.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381651302989" ignored="false" />
-    <file path="/home.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382344951806" ignored="false" />
-    <file path="/end.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381604033760" ignored="false" />
-    <file path="/URL.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382290570599" ignored="false" />
-    <file path="/products.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382344751734" ignored="false" />
-    <file path="/product.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345642198" ignored="false" />
-    <file path="/Columnizer.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345147946" ignored="false" />
-    <file path="/HomeController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345021261" ignored="false" />
-    <file path="/composers.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382349728479" ignored="false" />
-    <file path="/ProductAlgorithm.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382294189406" ignored="false" />
-    <file path="/Produc.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381612205544" ignored="false" />
-    <file path="/Video.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382290521306" ignored="false" />
-    <file path="/2013_10_12_200236_add_product_type.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381653757064" ignored="false" />
-    <file path="/2013_10_12_200310_create_videos_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381608203156" ignored="false" />
-    <file path="/deteiles.html" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381608536552" ignored="false" />
-    <file path="/related.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382256408933" ignored="false" />
-    <file path="/left.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382256990657" ignored="false" />
-    <file path="/categories.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345262134" ignored="false" />
-    <file path="/Categ.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381611888416" ignored="false" />
-    <file path="/Manager.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381651240261" ignored="false" />
-    <file path="/helpers.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382181455352" ignored="false" />
-    <file path="/xxx.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381654450654" ignored="false" />
-    <file path="/ImagePackage.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381653527644" ignored="false" />
-    <file path="/Version.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381653073746" ignored="false" />
-    <file path="/bindings.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381654904904" ignored="false" />
-    <file path="/100.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381654527053" ignored="false" />
-    <file path="/FreakCategoryController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382172162376" ignored="false" />
-    <file path="/FreakController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382339653755" ignored="false" />
-    <file path="/slider.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382268204912" ignored="false" />
-    <file path="/FreakVideoController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183190038" ignored="false" />
-    <file path="/videos.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382176992466" ignored="false" />
-    <file path="/VideosController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381692890145" ignored="false" />
-    <file path="/home.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381663768986" ignored="false" />
-    <file path="/videos.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381663790360" ignored="false" />
-    <file path="/video.html" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381663914062" ignored="false" />
-    <file path="/header.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382344675796" ignored="false" />
-    <file path="/CategoriesController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345517308" ignored="false" />
-    <file path="/SlugInterface.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381668175576" ignored="false" />
-    <file path="/BaseController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381692988016" ignored="false" />
-    <file path="/left_specials.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382257555528" ignored="false" />
-    <file path="/about-us.html" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381677940899" ignored="false" />
-    <file path="/distribution.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381678036749" ignored="false" />
-    <file path="/about-us.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381682277784" ignored="false" />
-    <file path="/Menu.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382338192236" ignored="false" />
-    <file path="/MenuItem.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382181112673" ignored="false" />
-    <file path="/seo.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381692643904" ignored="false" />
-    <file path="/Lan.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382338111878" ignored="false" />
-    <file path="/StorageIntera.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381690444241" ignored="false" />
-    <file path="/ProductsController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382172825707" ignored="false" />
-    <file path="/2013_10_14_070910_create_product_infos_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381734586617" ignored="false" />
-    <file path="/2013_10_14_071105_create_category_infos_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1381734740934" ignored="false" />
-    <file path="/Model.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382285993004" ignored="false" />
-    <file path="/2013_10_18_145518_create_category_specs_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382108727671" ignored="false" />
-    <file path="/2013_10_18_145617_add_product_specs.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382108197694" ignored="false" />
-    <file path="/2013_10_18_145453_create_product_specs_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382108603203" ignored="false" />
-    <file path="/empty_add.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382117462008" ignored="false" />
-    <file path="/html_handler.js" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382342650928" ignored="false" />
-    <file path="/submitter.js" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382342547293" ignored="false" />
-    <file path="/2013_07_30_112023_create_images_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382120664352" ignored="false" />
-    <file path="/menu.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382176231841" ignored="false" />
-    <file path="/titles.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382175535897" ignored="false" />
-    <file path="/words.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382276609624" ignored="false" />
-    <file path="/footer.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382175748174" ignored="false" />
-    <file path="/footer.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382349600211" ignored="false" />
-    <file path="/buy_product.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382286990909" ignored="false" />
-    <file path="/style00.css" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382178563202" ignored="false" />
-    <file path="/product.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382179063308" ignored="false" />
-    <file path="/about_us.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382181807492" ignored="false" />
-    <file path="/download.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382179567985" ignored="false" />
-    <file path="/international.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382181902335" ignored="false" />
-    <file path="/location.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382181917892" ignored="false" />
-    <file path="/prospect_catalogue.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382180623654" ignored="false" />
-    <file path="/spire_parts.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382180674762" ignored="false" />
-    <file path="/sales_marketing.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382180881674" ignored="false" />
-    <file path="/special_offers.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382182452517" ignored="false" />
-    <file path="/2013_10_19_115059_create_video_specs_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382183466152" ignored="false" />
-    <file path="/app.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382291638588" ignored="false" />
-    <file path="/database.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382187157791" ignored="false" />
-    <file path="/index.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382337921878" ignored="false" />
-    <file path="/ImageManager.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382249821832" ignored="false" />
-    <file path="/Image.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382256453449" ignored="false" />
-    <file path="/VersionAlgorithm.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382250181238" ignored="false" />
-    <file path="/category.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345524186" ignored="false" />
-    <file path="/messages.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382266647955" ignored="false" />
-    <file path="/2013_10_20_111137_add_order_message.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382267525760" ignored="false" />
-    <file path="/2013_10_20_111538_add_user_info.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382285663305" ignored="false" />
-    <file path="/Order.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382278668736" ignored="false" />
-    <file path="/UserInfo.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382285935623" ignored="false" />
-    <file path="/validation.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382279462795" ignored="false" />
-    <file path="/FreakOrderController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382285530601" ignored="false" />
-    <file path="/2013_07_29_134627_create_users_info_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382285688876" ignored="false" />
-    <file path="/easyr.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382286478808" ignored="false" />
-    <file path="/.gitignore" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382286443844" ignored="false" />
-    <file path="/details.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382288549352" ignored="false" />
-    <file path="/NativeSessionStorage.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382292894496" ignored="false" />
-    <file path="$PROJECT_DIR$/../site/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382301335569" ignored="false" />
-    <file path="D:/Testing/workbench/workbench/kareem3d/ecommerce/composer.json" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382302538240" ignored="false" />
-    <file path="/Item.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382339475235" ignored="false" />
-    <file path="/contact_us.blade.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345719352" ignored="false" />
-    <file path="/ContactUsControl.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382345975536" ignored="false" />
-    <file path="/contact_us.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382346056234" ignored="false" />
-    <file path="/2013_10_21_090534_create_footer_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382346341577" ignored="false" />
-    <file path="/2013_10_21_090603_create_footer_specs_table.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382346380607" ignored="false" />
-    <file path="/Footer.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382348568288" ignored="false" />
-    <file path="/FreakFooterController.php" changelist="07875d03-447e-46e9-a4f4-9368219212eb" time="1382348648527" ignored="false" />
+    <file path="/Dummy.txt" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382953096074" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Swaqny/www/freak/views/services/add.blade.php" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382942281020" ignored="false" />
+    <file path="/add.blade.php" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382942329398" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Swaqny/www/freak/views/projects/add.blade.php" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382942329398" ignored="false" />
+    <file path="/composer.json" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382952794411" ignored="false" />
+    <file path="/BaseController.php" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382952969951" ignored="false" />
+    <file path="/layout1.blade.php" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382953027968" ignored="false" />
+    <file path="/product.blade.php" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382953164023" ignored="false" />
+    <file path="/routes.php" changelist="88af0282-5bbe-4680-9875-3aaab66b3310" time="1382953239327" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,40 +40,30 @@
     <favorites_list name="www" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="composers.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/composers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="28" selection-start="847" selection-end="847" vertical-scroll-proportion="-11.769231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/partials/footer.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="32" selection-start="323" selection-end="323" vertical-scroll-proportion="-5.8846154">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="words.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/lang/ar/words.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="36" selection-start="646" selection-end="646" vertical-scroll-proportion="0.5233645">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="GeneralSettings">
+    <option name="browserPath" value="C:\Program Files\Internet Explorer\IExplore.exe" />
+    <option name="lastTip" value="25" />
+    <option name="showTipsOnStartup" value="true" />
+    <option name="showOccupiedMemory" value="false" />
+    <option name="reopenLastProject" value="true" />
+    <option name="autoSyncFiles" value="true" />
+    <option name="autoSaveFiles" value="true" />
+    <option name="autoSaveIfInactive" value="false" />
+    <option name="inactiveTimeout" value="15" />
+    <option name="useSafeWrite" value="true" />
+    <option name="useDefaultBrowser" value="true" />
+    <option name="confirmExtractFiles" value="true" />
+    <option name="searchInBackground" value="false" />
+    <option name="confirmExit" value="true" />
+    <option name="confirmOpenNewProject2" value="-1" />
+    <option name="lastProjectLocation" value="D:\Projects\Filehippo" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -225,22 +76,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/pages/product.blade.php" />
-        <option value="$PROJECT_DIR$/app/views/pages/contact_us.blade.php" />
-        <option value="$PROJECT_DIR$/app/controllers/ContactUsControl.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/views/layouts/layout1.blade.php" />
+        <option value="$PROJECT_DIR$/app/config/app.php" />
+        <option value="$PROJECT_DIR$/vendor/kareem3d/marketing/src/Kareem3d/Marketing/SEO.php" />
+        <option value="$PROJECT_DIR$/vendor/kareem3d/url/src/Kareem3d/URL/URL.php" />
+        <option value="$PROJECT_DIR$/app/controllers/BaseController.php" />
+        <option value="$PROJECT_DIR$/app/views/partials/product.blade.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
-        <option value="$PROJECT_DIR$/app/controllers/ContactUsController.php" />
-        <option value="$PROJECT_DIR$/app/lang/en/contact_us.php" />
-        <option value="$PROJECT_DIR$/app/lang/ar/contact_us.php" />
-        <option value="$PROJECT_DIR$/app/database/migrations/2013_10_21_090534_create_footer_table.php" />
-        <option value="$PROJECT_DIR$/app/database/migrations/2013_10_21_090603_create_footer_specs_table.php" />
-        <option value="$PROJECT_DIR$/app/freak/ApplicationClient.php" />
-        <option value="$PROJECT_DIR$/app/models/Footer.php" />
-        <option value="$PROJECT_DIR$/app/freak/views/footer/add.blade.php" />
-        <option value="$PROJECT_DIR$/app/freak/Controllers/FreakFooterController.php" />
-        <option value="$PROJECT_DIR$/app/composers.php" />
-        <option value="$PROJECT_DIR$/app/views/partials/footer.blade.php" />
-        <option value="$PROJECT_DIR$/app/lang/ar/words.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/github.php" />
       </list>
     </option>
   </component>
@@ -251,7 +96,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -277,6 +122,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,199 +141,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../site" />
-    <property name="FullScreen" value="false" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\ITB\www\app\config\swaqny" />
-      <recent name="D:\Projects\ITB\www\app\freak\Controllers" />
-      <recent name="D:\Projects\ITB\www\app\freak\views\videos" />
-      <recent name="D:\Projects\ITB\www\workbench\kareem3d\freak-ecommerce\src\views\products" />
-      <recent name="D:\Projects\ITB\www\app\commands" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\ITB\www\app\views\html\en" />
-      <recent name="D:\Projects\ITB\www\app\views" />
-      <recent name="D:\Projects\ITB\www\app\views\en" />
-      <recent name="D:\Projects\ITB\www\app\libraries" />
-      <recent name="D:\Projects\ITB\www\app\models\Menu" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value="VISIBILITY_SORTER,Show Inherited" />
-  </component>
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07875d03-447e-46e9-a4f4-9368219212eb" name="Default" comment="" />
-      <created>1381588658861</created>
-      <updated>1381588658861</updated>
+      <changelist id="88af0282-5bbe-4680-9875-3aaab66b3310" name="Default" comment="" />
+      <created>1382940888299</created>
+      <updated>1382940888299</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25378788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681818" sideWeight="0.6712095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -551,121 +245,115 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_10_19_115059_create_video_specs_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="36" selection-start="354" selection-end="543" vertical-scroll-proportion="0.54018694">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Video.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="107" selection-end="612" vertical-scroll-proportion="0.77757007">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="446" selection-end="446" vertical-scroll-proportion="0.33271027">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakVideoController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="2503" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/views/videos/add.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakCategoryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="2394" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="5" selection-start="1557" selection-end="1595" vertical-scroll-proportion="0.09497207" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/freak/views/products/add.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.87931037">
+        <state line="125" column="18" selection-start="6274" selection-end="6274" vertical-scroll-proportion="0.38358778">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_10_21_090603_create_footer_specs_table.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="34" selection-start="424" selection-end="424" vertical-scroll-proportion="0.6037383">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.18994413">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/ApplicationClient.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="45" selection-start="1351" selection-end="1351" vertical-scroll-proportion="0.5233645">
+        <state line="27" column="43" selection-start="749" selection-end="749" vertical-scroll-proportion="0.84171325">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_10_21_090534_create_footer_table.php">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/layout1.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.54018694">
+        <state line="4" column="21" selection-start="50" selection-end="50" vertical-scroll-proportion="0.12662943">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Footer.php">
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="23" selection-start="556" selection-end="556" vertical-scroll-proportion="0.85794395">
+        <state line="123" column="32" selection-start="4622" selection-end="4622" vertical-scroll-proportion="0.75977653">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/Controllers/FreakFooterController.php">
+    <entry file="file://$PROJECT_DIR$/vendor/kareem3d/url/src/Kareem3d/URL/URL.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="23" selection-start="751" selection-end="751" vertical-scroll-proportion="0.49158877">
+        <state line="177" column="1" selection-start="3583" selection-end="3583" vertical-scroll-proportion="0.93668526">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/freak/views/footer/add.blade.php">
+    <entry file="file://$PROJECT_DIR$/vendor/kareem3d/marketing/src/Kareem3d/Marketing/SEO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="77" selection-start="3215" selection-end="3215" vertical-scroll-proportion="0.68390805">
+        <state line="131" column="1" selection-start="2641" selection-end="2641" vertical-scroll-proportion="0.93668526">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="413" selection-end="413" vertical-scroll-proportion="0.36685288">
+          <folding>
+            <element signature="e#7#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="5" selection-start="1832" selection-end="1832" vertical-scroll-proportion="0.44636014">
+        <state line="27" column="39" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.45419848">
           <folding>
-            <element signature="e#2042#2259#0" expanded="false" />
+            <element signature="e#7#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/composers.php">
+    <entry file="file://$PROJECT_DIR$/app/views/partials/product.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="28" selection-start="847" selection-end="847" vertical-scroll-proportion="-11.769231">
+        <state line="4" column="55" selection-start="204" selection-end="204" vertical-scroll-proportion="0.12662943">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/partials/footer.blade.php">
+    <entry file="file://$PROJECT_DIR$/github.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="323" selection-end="323" vertical-scroll-proportion="-5.8846154">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/lang/ar/words.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="36" selection-start="646" selection-end="646" vertical-scroll-proportion="0.5233645">
+        <state line="6" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.1811723">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easyr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Routing\Controllers\Controller;
+use Kareem3d\Marketing\SEO;
 
 class BaseController extends Controller {
 
@@ -19,7 +20,9 @@ class BaseController extends Controller {
 		if ( ! is_null($this->layout))
 		{
 			$this->layout = View::make($this->layout);
-		}
+
+            $this->layout->seo = SEO::getCurrent();
+        }
 	}
 
     /**

@@ -1,6 +1,11 @@
 <html>
 <head>
-    <title>index</title>
+
+    @if($seo)
+    {{ $seo->toHtml() }}
+    @else
+    <title>ITB Swiss | Trading around the world</title>
+    @endif
 
     {{ Asset::styles() }}
 

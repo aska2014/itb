@@ -1,5 +1,8 @@
 <?php
 
+use Illuminate\Database\Schema\Blueprint;
+use Kareem3d\Marketing\SEO;
+
 Route::get(menu()->useItem('home')->getUri()         , array('as' => 'home', 'uses' => 'HomeController@index'));
 Route::get(menu()->useItem('videos')->getUri()       , array('as' => 'videos', 'uses' => 'VideosController@all'));
 Route::get(menu()->useItem('our_products')->getUri() , array('as' => 'categories', 'uses' => 'CategoriesController@all'));
@@ -20,7 +23,11 @@ foreach(menu()->getUnusedItems() as $item)
 {
     Route::get($item->getUri(), function() use ($item)
     {
-        return View::make('layouts.layout1')->nest('content', 'html.' . lan()->get() . '.' . $item->getId());
+        $view = View::make('layouts.layout1');
+
+        $view->seo = SEO::getCurrent();
+
+        return $view->nest('content', 'html.' . lan()->get() . '.' . $item->getId());
     });
 }
 
@@ -36,8 +43,18 @@ Route::get('change-language/{language}', array('as' => 'change-language', functi
 }));
 
 
+
+
+
+
+
+
+
+
+
 Route::get('/test', function()
 {
+    exit();
     $versions = \Kareem3d\Images\Version::all();
 
     foreach($versions as $version)
@@ -54,6 +71,7 @@ Route::get('/test', function()
 
 Route::get('/add-image', function()
 {
+    exit();
     $user = \Kareem3d\Freak\DBRepositories\User::find(1);
 
     $userInfo = $user->setInfo(new \Kareem3d\Membership\UserInfo(array(

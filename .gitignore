@@ -4,3 +4,9 @@ composer.phar
 composer.lock
 .DS_Store
 easyr.php
+
+!vendor/
+
+vendor/*
+!vendor/kareem3d/
+www.zip

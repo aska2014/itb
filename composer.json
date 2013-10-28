@@ -23,7 +23,11 @@
         "intervention/image":"dev-master",
 
         "kareem3d/freak": "dev-master",
-        "kareem3d/freak-images": "dev-master"
+        "kareem3d/freak-images": "dev-master",
+
+        "kareem3d/marketing": "dev-master",
+
+        "kareem3d/freak-seo": "dev-master"
 
     },
 	"autoload": {
